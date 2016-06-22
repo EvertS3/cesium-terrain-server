@@ -3,7 +3,7 @@
 #
 
 # Ubuntu 14.04 Trusty Tahr
-FROM phusion/baseimage:0.9.15
+FROM jedisct1/phusion-baseimage-latest
 
 # Set correct environment variables.
 ENV HOME /root
